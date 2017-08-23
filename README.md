@@ -21,6 +21,8 @@ He also speak about Instructable, Thingivers, Pinshape, My Mini Factory, etc fro
 
 [My Mini Factory](https://www.myminifactory.com/)
 
+[Makezine](http://makezine.com/)
+
 [Github](https://github.com/)
 
 [Grabcad](https://grabcad.com/)
